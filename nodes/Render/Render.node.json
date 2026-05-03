@@ -1,0 +1,18 @@
+{
+	"node": "n8n-nodes-render",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Developer Tools"],
+	"resources": {
+		"credentialDocumentation": [
+			{
+				"url": "https://render.com/docs/api#1-create-an-api-key"
+			}
+		],
+		"primaryDocumentation": [
+			{
+				"url": "https://render.com/docs/api"
+			}
+		]
+	}
+}
