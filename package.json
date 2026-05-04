@@ -1,5 +1,5 @@
 {
-	"name": "n8n-nodes-render",
+	"name": "n8n-nodes-render-cloud",
 	"version": "0.1.0",
 	"description": "n8n community nodes for managing Render.com services, deploys, environment variables, and custom domains",
 	"license": "MIT",
